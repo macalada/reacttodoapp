@@ -1,0 +1,14 @@
+body {
+  margin : 0;
+  padding: 0;
+  display : flex;
+  text-align : center;
+  justify-content: center;
+  min-width: 100vh;
+}
+/* form {
+  list-style: none;
+} */
+.todo-item{
+  list-style: none;
+}
